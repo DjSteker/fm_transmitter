@@ -38,8 +38,8 @@
  *      Author: DjSteker
  */
 
-#include "Transmitter.hpp"
-#include "Mailbox.hpp"
+#include "transmitter.hpp"
+#include "mailbox.hpp"
 #include <stdexcept>
 #include <thread>
 #include <chrono>
