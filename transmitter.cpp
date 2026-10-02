@@ -35,7 +35,7 @@
  * Transmitter.cpp
  *
  *  Created on: 1 oct 2026
- *      Author: usuario001
+ *      Author: DjSteker
  */
 
 #include "Transmitter.hpp"
